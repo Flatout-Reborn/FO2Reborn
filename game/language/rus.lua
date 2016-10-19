@@ -1,4 +1,4 @@
-  Line 28: 		rus = L"ДЕНЬ",
+  	Line 28: 		rus = L"ДЕНЬ",
 	Line 41: 		rus = L"ВЕЧЕР",
 	Line 54: 		rus = L"НОЧЬ",
 	Line 80: 		rus = L"СЛУЧАЙНО",
