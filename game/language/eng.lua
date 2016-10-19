@@ -1,4 +1,4 @@
-  Line 23: 		eng = L"DAY",
+  	Line 23: 		eng = L"DAY",
 	Line 36: 		eng = L"EVENING",
 	Line 49: 		eng = L"NIGHT",
 	Line 62: 		eng = L"RANDOM",
